@@ -2,11 +2,16 @@
   {
     "name": "PGN Base",
     "url": "https://pgn.sachytynec.cz",
-    "desc": "Prohlížeč a databáze partií"
+    "desc": "Databáze partií s napojením na ŠSČR"
   },
   {
-    "name": "Příklad aplikace",
-    "url": "https://neco.sachytynec.cz",
-    "desc": "Tento řádek smaž nebo přepiš vlastní aplikací"
+    "name": "En Croissant CZE",
+    "url": "https://encroissant.sachytynec.cz",
+    "desc": "Šachový program En Croissant v češtině — a s funkcemi, které potřebují čeští hráči, kapitáni družstev a vedoucí soutěží ŠSČR."
+  },
+  {
+    "name": "Soupiska",
+    "url": "https://Soupiska.sachytynec.cz",
+    "desc": "Aplikace na tvorbu elektronické soupisky dle požadavků Středočeského Šachového Svazu"
   }
 ]
