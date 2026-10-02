@@ -15,6 +15,11 @@
     "desc": "Aplikace na tvorbu elektronické soupisky dle požadavků Středočeského Šachového Svazu"
   },
   {
+    "name": "Zpravodaj soutěže",
+    "url": "https://zpravodaj.sachytynec.cz",
+    "desc": "Generátor zpravodaje kola soutěže družstev ŠSČR do DOCX — výsledky, pořadí a sekce Různé z dat chess.cz"
+  },
+  {
     "name": "Swiss-Manager Automat",
     "url": "https://github.com/ccgeek3274/swiss-manager-automat",
     "desc": "Hromadné zadávání hráčů do Swiss-Manageru podle LOK/FIDE ID — program ke stažení pro Windows a macOS"
