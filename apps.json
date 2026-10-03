@@ -15,9 +15,19 @@
     "desc": "Aplikace na tvorbu elektronické soupisky dle požadavků Středočeského Šachového Svazu"
   },
   {
+    "name": "Kontrola soupisky",
+    "url": "https://kontrolasoupisky.sachytynec.cz",
+    "desc": "Načte všechny atributy hráčů z api.chess.cz podle č. LOK nebo FIDE — rychlá kontrola soupisky družstva"
+  },
+  {
     "name": "Zpravodaj soutěže",
     "url": "https://zpravodaj.sachytynec.cz",
     "desc": "Generátor zpravodaje kola soutěže družstev ŠSČR do DOCX — výsledky, pořadí a sekce Různé z dat chess.cz"
+  },
+  {
+    "name": "Řízené losování",
+    "url": "https://rizenelosovani.sachytynec.cz",
+    "desc": "Protičísla, posouzení výhodnosti losovacích čísel a Bergerovy tabulky pro šachové soutěže družstev"
   },
   {
     "name": "Swiss-Manager Automat",
